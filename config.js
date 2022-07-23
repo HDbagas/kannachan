@@ -52,24 +52,24 @@ global.sdc = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN'
 global.snh = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN'
 
 /*============== PAYMENT ==============*/
-global.pdana = '089515023118'
-global.povo = '089515023118'
-global.pgopay = '089515023118'
-global.ppulsa = '0895413767627'
+global.pdana = '08996240531'
+global.povo = ''
+global.pgopay = '08996240531'
+global.ppulsa = '082113928157'
 global.ppulsa2 = '088991489057'
-global.psaweria = 'https://saweria.com/DonateBot'
+global.psaweria = ''
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62895413767627'
-global.nomorown = '17242332244'
+global.nomorbot = '082113928157'
+global.nomorown = '08996240531'
 global.namebot = 'CekilXD'
 global.nameown = 'CekilXD'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['17242332244', 'Sewa Bot', true],
-  ['17242332244', 'Owner Gweh', true] //Ganti jd nomormu sama Namamu
+  ['17242332244', 'Sewa Bot', false],
+  ['17242332244', 'Owner Gweh', false] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -132,8 +132,8 @@ global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=tr
 
 /*============== HENTAI ==============*/ 
 //OPTIONS
-global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
-global.premnsfw = true // Nsfw Mode Premium?
+global.optsnsfw = false // Untuk mematikan Dan Menyalakan Nsfw
+global.premnsfw = false // Nsfw Mode Premium?
 
 
 //Ini cuma simpenan owner kok :v
@@ -188,8 +188,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Cekil-XD'
-global.stickauth = `By ©CekilXD`
+global.stickpack = 'HDbagas'
+global.stickauth = `By ©HDbagas`
 
 global.multiplier = 38 // The higher, The harder levelup
 
