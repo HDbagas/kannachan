@@ -45,31 +45,31 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/cekilgans'
-global.sgh = 'https://cekilgans.github.io'
+global.sig = '-'
+global.sgh = '-'
 global.sgc = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN'
 global.sdc = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN'
 global.snh = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN'
 
 /*============== PAYMENT ==============*/
-global.pdana = '089515023118'
-global.povo = '089515023118'
-global.pgopay = '089515023118'
-global.ppulsa = '0895413767627'
-global.ppulsa2 = '088991489057'
-global.psaweria = 'https://saweria.com/DonateBot'
+global.pdana = '08996240531'
+global.povo = '-'
+global.pgopay = '08996240531'
+global.ppulsa = '08996240531'
+global.ppulsa2 = '08996240531'
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62895413767627'
-global.nomorown = '17242332244'
-global.namebot = 'CekilXD'
-global.nameown = 'CekilXD'
+global.nomorbot = '6282113928157'
+global.nomorown = '628996240531'
+global.namebot = 'RAYKANBOTZ'
+global.nameown = 'RAYKANBOTZ'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['17242332244', 'Sewa Bot', true],
-  ['17242332244', 'Owner Gweh', true] //Ganti jd nomormu sama Namamu
+  ['17242332244', 'Sewa Bot', false],
+  ['17242332244', 'Owner Gweh', false] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -114,13 +114,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Cekil-XD 」' //Main Watermark
+global.wm = '                「 RAYKAN-BOTZ 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Cekil-XD ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Cekil-XD '
+global.wm3 = '⫹⫺ RAYKAN-BOTZ '
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By CekilGanz`
-global.author = '                「 Cekil - Xd  あ⁩ 」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By HDbagas`
+global.author = '                「 RAYKAN-BOTZ  あ⁩ 」'
 
 
 /*============== LOGO ==============*/
@@ -132,8 +132,8 @@ global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=tr
 
 /*============== HENTAI ==============*/ 
 //OPTIONS
-global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
-global.premnsfw = true // Nsfw Mode Premium?
+global.optsnsfw = false // Untuk mematikan Dan Menyalakan Nsfw
+global.premnsfw = false // Nsfw Mode Premium?
 
 
 //Ini cuma simpenan owner kok :v
@@ -188,8 +188,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Cekil-XD'
-global.stickauth = `By ©CekilXD`
+global.stickpack = 'RAIKAN-BOTZ'
+global.stickauth = `By ©HDbagas`
 
 global.multiplier = 38 // The higher, The harder levelup
 
